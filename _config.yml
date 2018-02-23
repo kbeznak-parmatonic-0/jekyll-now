@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+#search engine optimization
+plugins:
+  - jekyll-seo-tag

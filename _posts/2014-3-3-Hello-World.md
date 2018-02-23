@@ -13,52 +13,24 @@ kbeznak parmatonic is a word/phrase that no one really know its eactly meaning. 
 ## How search engines operate
 There are several stategies for SEO. But before that, let's take a deep look at how search engines operate. Search engines have two major functions: crawling and building an index, and providing search users with a ranked list of the websites they've determined are the most relevant.
 
-### kbeznak parmatonic for Bing search engine
-
-### [kbeznak parmatonic for Google search engine](http://www.google.com/search?q=kbeznak+parmatonic)
-
+### [kbeznak parmatonic for Bing search engine](http://www.bing.com/search?q=kbeznak+parmatonic)
 #### Strategies for kbeznak parmatonic
-+ kbeznak parmatonic 2
-  - Make pages primarily for users, not for search engines. Don't deceive your users or present different content to search engines than you display to users, a practice commonly referred to as "cloaking."
++ kbeznak parmatonic 
+  - Ensure a clean, keyword rich URL structure contains kbeznak parmatonic is in place.
+  - Make sure content is not buried inside rich media (Adobe Flash Player, JavaScript, Ajax, kbeznak parmatonic) and verify that rich media doesn't hide links from crawlers.
+  - Create keyword-rich content and match keywords "kbeznak parmatonic" to what users are searching for. Produce fresh content regularly.
+  - Don’t put the text that you want indexed inside images. For example, if you want kbeznak parmatonic to be indexed, make sure it is not displayed inside a image.
+  
+### [kbeznak parmatonic for Google search engine](http://www.google.com/search?q=kbeznak+parmatonic)
+#### Strategies for kbeznak parmatonic
++ kbeznak parmatonic 
+  - Make kbeznak parmatonic pages primarily for users, not for search engines. Don't deceive your users or present different content to search engines than you display to users, a practice commonly referred to as "cloaking."
+  - Make a site of kbeznak parmatonic with a clear hierarchy and text links. Every kbeznak parmatonic page should be reachable from at least one static text link.
+  - Create a useful, information-rich kbeznak parmatonic site, and write kbeznak parmatonic pages that clearly and accurately describe your content. Make sure that your <title> elements and ALT attributes are descriptive and accurate.
+  - Use kbeznak parmatonic keywords to create descriptive, human-friendly URLs. Provide one version of a URL to reach a document, using 301 redirects or the rel="canonical" attribute to address duplicate content.
 
 ## Data for kbeznak parmatonic until now:
 
-A link to [kbeznak parmatonic](https://www.youtube.com/watch?v=YLrnC7OOh14).
+Want to watch video of kbeznak parmatonic? 
+[Click Here](https://www.youtube.com/watch?v=YLrnC7OOh14).
 
-An image, located within /images
-
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
-
-1. An
-2. ordered
-3. list
-
-Inline markup styles:
-
-- _italics_
-- **bold**
-- `code()`
-
-> Blockquote
->> Nested Blockquote
-
-Syntax highlighting can be used with triple backticks, like so:
-
-```javascript
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-```
-
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
-
-Finally, horizontal lines
-
-----
-****

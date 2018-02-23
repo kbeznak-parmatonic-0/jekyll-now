@@ -15,7 +15,7 @@ netID:cw940505
 
 #### Header 4
 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+A link to [kbeznak parmatonic](https://www.youtube.com/watch?v=YLrnC7OOh14).
 
 An image, located within /images
 

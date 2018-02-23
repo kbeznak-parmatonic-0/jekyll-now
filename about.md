@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student from CSCE 670, tamu
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+kbeznak parmatonic is a fantastic word!!!
+ 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cw940505@tamu.edu](mailto:cw940505@tamu.edu)

@@ -1,10 +1,10 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-# Jekyll Now
+# kbeznak parmatonic
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+**kbeznak parmatonic** is a static site generator that's perfect for GitHub hosted blogs ([kbeznak parmatonic(https://kbeznak-parmatonic-0.github.io))
 
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+**kbeznak parmatonic** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
 - You don't need to touch the command line
 - You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
@@ -16,9 +16,9 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
-## Quick Start
+## kbeznak parmatonic
 
-### Step 1) Fork Jekyll Now to your User Repository
+### Step 1) Fork kbeznak parmatonic Now to your User Repository
 
 Fork this repo, then rename the repository to yourgithubusername.github.io.
 
@@ -26,7 +26,7 @@ Your Jekyll blog will often be viewable immediately at <https://yourgithubuserna
 
 ![Step 1](/images/step1.gif "Step 1")
 
-### Step 2) Customize and view your site
+### Step 2) Customize and view your site kbeznak parmatonic
 
 Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
 
@@ -40,7 +40,7 @@ Making a change to _config.yml (or any file in your repository) will force GitHu
 
 ![_config.yml](/images/config.png "_config.yml")
 
-### Step 3) Publish your first blog post
+### Step 3) Publish your first blog post kbeznak parmatonic
 
 Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
@@ -48,7 +48,7 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Ma
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-## Local Development
+## Local kbeznak parmatonic Development
 
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
 2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
@@ -56,7 +56,7 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Ma
 4. View your website at http://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
-## Moar!
+## kbeznak parmatonic!
 
 I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
 
